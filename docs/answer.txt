@@ -1,0 +1,13 @@
+﻿（a）3(first time:update README.md second time:Update status.txt third time:append answer.txt )
+(b) Thu Sep 15 10:29:34 2016 
+(c)Sword.java:2 times      Weapon.java:1 time  RoleGame.java：1 time 
+   WeaponFactory.java:1 time  BasicWeapon:1 time
+   (use command "git log --pretty=oneline filename)
+   
+(d)"git log" could show commit history of a branch,but can not show changes that not commit.
+   "git status" could show changes not staged for commit and untracked file.
+(e)command "git log RoleGame.java"
+(f)command "git log --grep==file"
+(g)command  "git log --author=Alice --since="2016-09-01" --until="2016-09-16" "
+
+
