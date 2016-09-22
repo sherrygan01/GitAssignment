@@ -1,9 +1,6 @@
 package edu.fsu.cs.cen5035;
 
-/**
- *
- * @author Javier
- */
+
 public class Axe extends BasicWeapon implements Weapon {
 
     public Axe() {
