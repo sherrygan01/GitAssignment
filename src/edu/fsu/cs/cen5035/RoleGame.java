@@ -25,7 +25,7 @@ public class RoleGame {
 		System.out.println("Axe has " + axe.hit() + " of damage.");
 		System.out.println("Axe was able to do " + axe.hit(armor) + " of damage due to an armor with "+armor+ " points."); 
 		
-		Weapon magicStaff=WeaponFactory.getWeapon("magicstaff");
+		Weapon magicstaff=WeaponFactory.getWeapon("magicstaff");
 		System.out.println("MagicStaff has " + magicstaff.hit() + " of damage.");
 		System.out.println("MagicStaff was able to do " + magicstaff.hit(armor) + " of damage due to an armor with "+armor+ " points."); 
         //TODO: Add the remainig weapons here
